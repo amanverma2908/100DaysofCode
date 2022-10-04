@@ -27,38 +27,39 @@ function functionName(Parameter1, Parameter2, ..)
 
   
 ### Test Cases
+_ _ _ _
 
 * **Case 1**
 
 Input
-```node
+```bash
   Enter to check Palindrome: 12321
 ```
 Output
-```node
+```bash
     12321 is Palindrome.
 ```
 * **Case 2**
 
 _Input_
-```node
+```zsh
   Enter to check Palindrome: 0
 ```
 
 _Output_
 
-```node
+```bash
     0 is Palindrome.
 ```
 
 * **Case 3**
 
 _Input_
-```node
+```bash
   Enter to check Palindrome: madam
 ```
 _Output_
-```node
+```bash
     madam is Palindrome.
 ```
 
