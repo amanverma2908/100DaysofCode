@@ -20,4 +20,4 @@
 <br />
  
  ## Link for the final website : 
-This site is Published @ [GitHub Pages](https://amanverma2908.github.io/drumKit). 
+This site is Published @ [👉 Click Here to Visit ](https://drumkit-2908.netlify.app/). 
