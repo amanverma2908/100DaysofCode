@@ -15,4 +15,5 @@ var generate = function(numRows) {
 
 let n = prompt("Enter number of rows");
 //pass number of rows in generate function.
-console.log(generate(n));
+
+console.log((n>0) ? generate(n) : "Enter a positive number!");
