@@ -1,4 +1,4 @@
-# Pascal's Triangle
+# Floyd's Triangle
 
 Today, I learnt about the concept of Floyds Triangle.
 
