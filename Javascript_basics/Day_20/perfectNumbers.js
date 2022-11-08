@@ -9,10 +9,8 @@ function findPerfect() {
     }
     if (sum == n)
         console.log("The number is perfect ");
-    else if (sum > n)
-        console.log("The number is abundant");
     else
-        console.log("The number is deficient");
+        console.log("The number is not perfect number");
 }
 
 findPerfect();
