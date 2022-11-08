@@ -43,5 +43,5 @@ _Input_
 _Output_
 
 ```bash
-  15 is not a perfect number.
+  The number is not a perfect number.
 ```
